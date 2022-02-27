@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King of Denmarck. The King of France, the King of Spain, the states of Vevice [sic] navies on the seas, intended for England. With the cause of their comming, and their intents. As also the just number of all their navies, and the souldiers with them, and where each navie lyes. Likewise, the Danes and Italians resolution concerning His Majesty. And the names of the captains of each navie, Captain Keevalo Dunous for the Danes. Captain De Sunae Bewit for France. Captain Don Pedringano for Spain. Captain Hupah Fenao for the Italians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87766</idno>
+            <idno type="STC">Wing K563</idno>
+            <idno type="STC">Thomason E129_29</idno>
+            <idno type="STC">ESTC R19174</idno>
+            <idno type="EEBO-CITATION">99860597</idno>
+            <idno type="PROQUEST">99860597</idno>
+            <idno type="VID">112720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King of Denmarck. The King of France, the King of Spain, the states of Vevice [sic] navies on the seas, intended for England. With the cause of their comming, and their intents. As also the just number of all their navies, and the souldiers with them, and where each navie lyes. Likewise, the Danes and Italians resolution concerning His Majesty. And the names of the captains of each navie, Captain Keevalo Dunous for the Danes. Captain De Sunae Bewit for France. Captain Don Pedringano for Spain. Captain Hupah Fenao for the Italians.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J, Bandon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Spain --  History --  Philip IV, 1621-1665 --  Early works to 1800.</term>
+               <term>Denmark --  History --  Christian IV, 1588-1648 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIII, 1610-1643 --  Early works to 1800.</term>
+               <term>Venice (Italy) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112720:1" rendition="simple:additions"/>
+            <p>THE KING OF DENMARCK. THE King of <hi>France,</hi> The King of <hi>Spain,</hi> The States of <hi>Venice</hi> Navies on the Seas, intended for ENGLAND. <hi>WITH,</hi> The Cauſe of their comming, and their in<g ref="char:EOLhyphen"/>tents. As alſo the juſt Number of all their Na<g ref="char:EOLhyphen"/>vies, and the Souldiers with them, and where each Navie lyes. Likewiſe, the <hi>Danes</hi> and <hi>Italians</hi> Reſolution concerning His Majeſty. And the Names of the Captains of each NAVIE, Captain <hi>Keevalo Dunous</hi> for the Danes. Captain <hi>De Sunae Bewit</hi> for France. Captain <hi>Don Pedringano</hi> for Spain. Captain <hi>Hupah Fenao</hi> for the Italians.</p>
+            <p>
+               <hi>London Printed for</hi> J. Bandon, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112720:2"/>
+            <pb facs="tcp:112720:2"/>
+            <head>THE <hi>KING OF DENMARKS</hi> Navie.</head>
+            <p>AFter the confuſive diſtractions in this King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> intelligence being ſpread abroad to moſt neighboring Nations, con<g ref="char:EOLhyphen"/>cerning his Majeſty moſt particularly, and a<g ref="char:EOLhyphen"/>mongſt others the King of <hi>Denmarke</hi> hearing of the ſame, firſt convocated a Councell, and when he perceived the proneneſſe, and eager readineſſe of the <hi>Danes:</hi> whoſe propenſity was greater then he expected, he forthwith by the unanimous con<g ref="char:EOLhyphen"/>ſent of his Counſell, concluded to raiſe a Fleet, which he would ſend over to the Engliſh Coaſt reſpectively. They elected immediatly <hi>Keevalo Dunous</hi> to be their chief Commander, and ſet for<g ref="char:EOLhyphen"/>ward with 75 ſayl the 13 of this preſent month of <hi>March,</hi> but they ſtayed two dais on ſhore, ex<g ref="char:EOLhyphen"/>pecting a good wind, and ſo they ſet forward the 15. day having a good gale, tryumphing in great pomp, &amp;c. There are above 40000. <hi>Danes</hi> in all, and it is ſuppos'd, that their number will be ſhort<g ref="char:EOLhyphen"/>ly augmented. They lye now at the Coaſts of <hi>Ireland,</hi> and they ſent a meſſage to the King of their loyalty to his Majeſty, and the cauſe of their comming and intents were onely to vindicate the
+<pb facs="tcp:112720:3" rendition="simple:additions"/>abuſive injuries done againſt his Royall perſon: but the King (whoſe care and vigilancy extends to the proſperous ſecurity of his ſubiects, whoſe clemen<g ref="char:EOLhyphen"/>cy is adorned with ſuch patience, that he had rather ſuffer wrong himſelf, then bath the ſame in cloudy tevenge to the detriment, and hazard of his King<g ref="char:EOLhyphen"/>domes) would not accept of their ſervice, and diſ<g ref="char:EOLhyphen"/>creetly denyed their entertainment.</p>
+            <p>But they continue at the Iriſh Coaſt ſtill, and if they hear not further anſwer from His Majeſty ſpeedily, they will return again into their Country, which God grant they may, as ſoon as they pleaſe.</p>
+            <div type="part">
+               <head>The King of Frances Navie</head>
+               <p>THe French King hearing of the turbulent diviſions in <hi>Eng<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and,</hi> and ſome abuſes done to his Brother, known particularly by the private information of a dear Friend, and moved by the ſame to aſſiſt his Majeſty, ſummoned a Navie, under the command of Captain <hi>De Sunae Bewit,</hi> and intended to ſet forward for <hi>England.</hi> The certainty of this News is credible, a though there hath been ſome ementitious Pamphlets that have heretofore bin fictitiouſly publiſhed, intimating that the French fleet was provided long ſince, bvt it was not intended before now of late: and although the o<g ref="char:EOLhyphen"/>ther was a lye, would this were ſo too, but it is too
+<pb facs="tcp:112720:3"/>certaine. They have fifty ſix ſaile, and about thir<g ref="char:EOLhyphen"/>ty thouſand ſouldiers, loaded like wiſe with great proviſion of Armes.</p>
+               <p>They lye in the narrow ſeas, and were diſcryed by two <hi>Engliſh</hi> Merchants ſhips, who eſpied them there, and reported it at <hi>London</hi> for truth.</p>
+               <p>And noe queſtion but they will be at <hi>England</hi> very ſuddatnely, if they be not timely prevented, for beſides that number, twice as many more are reſolved to ſecond them, and doe now waite in rea<g ref="char:EOLhyphen"/>dineſſe: they come likewiſe to maintaine his Ma<g ref="char:EOLhyphen"/>jeſties cauſe; but I hope his Majeſtie will neither accept of their ſervice, nor have any cauſe to vſe them.</p>
+            </div>
+            <div type="part">
+               <head>The King of Spaines Navy.</head>
+               <p>THe Spaniard (like a crafty For) harh al<g ref="char:EOLhyphen"/>wayes weighted for his prey on <hi>England,</hi> which hath beene the ſole object of his greedy intentions. Witneſſe firſt that formidable and invincible Armado in 88. which was ſuffici<g ref="char:EOLhyphen"/>ently potent to have blaſted the whole Kingdome at one brunt, had not the divine protection aver<g ref="char:EOLhyphen"/>ted it from vs.</p>
+               <pb facs="tcp:112720:4"/>
+               <p>Now likewiſe the King of <hi>Spain</hi> perceiving a ſedition, and various confuſion in the Kingdome, hath provided a fleet conſiſting of 23. ſhips, under the Command of Captain <hi>Don Pedringano,</hi> to the number of 8000. ſouldiers, waiting on the Seas for his opportunity. Theſe ſhips were eſpyed a hundred leagues diſtant from the Spaniſh Coaſt, ſome think his intent hereby is for the defence of his own Country, but that ſeems improbable, in regard it is ſo far remote from their own ſhore: o<g ref="char:EOLhyphen"/>thers think verily that his meaning is to aid, and aſſiſt his Majeſty upon juſt occaſion: but in my opinion I conceive his intent is to wait rather for his own prey, and watching his opportunity: for thoſe that are too officious in warlike affairs, eſpe<g ref="char:EOLhyphen"/>cially in a forraign Kingdome, will rather regard their own ends, then any others, for they will al<g ref="char:EOLhyphen"/>wais turn to the ſtrongeſt ſide: But I hope all his evill intentions, and private ſtratagems will fall on his own head.</p>
+            </div>
+            <div type="part">
+               <head>The States of Venices Navie.</head>
+               <p>THe <hi>Italians</hi> ſeriouſly underſtanding ſome wrongs offered unto his Majeſty, acquain<g ref="char:EOLhyphen"/>ted the States of <hi>Venice</hi> with the ſame. Who immediatly ſate in Councell about it, and after ſome mature deliberation concluded to ſet out a Navie to aſſiſt his Majeſty, which was una<g ref="char:EOLhyphen"/>nimouſly confirmed, and aſſented unto their fleet conſiſteth of 48. ſhips, under the Commad of Cap<g ref="char:EOLhyphen"/>taine
+<pb facs="tcp:112720:4"/>
+                  <hi>Hupah Fenao,</hi> there being at the leaſt 36000. ſouldiers, being alſo provided with ſtrong ammu<g ref="char:EOLhyphen"/>nition of arms: they lye now within leſſe then 40. leagues from the Downs, and are ſuddenly inten<g ref="char:EOLhyphen"/>ded to appropinquate the Engliſh Coaſt, being all unitely reſolved to maintain the Kings own perſon from all injuries, or abuſes: but I hope the Kings clemency will mittigate their anger, and no doubt, but that His Majeſty will not entertain them, ha<g ref="char:EOLhyphen"/>ving no cauſe of any ſuch vindication.</p>
+            </div>
+            <div type="part">
+               <p>COnſtancy is an Antidote againſt fear: wher<g ref="char:EOLhyphen"/>fore let us be ſincerely conſtant in our minds, and we may eaſily expell fear from our thoughts. Firſt conſtant to God, conſtant to our King, con<g ref="char:EOLhyphen"/>ſtant to our Parliament, conſtant to our ſelves, and laſtly conſtant to truth and equity. Theſe being tru<g ref="char:EOLhyphen"/>ly performed, we need not to fear either any for<g ref="char:EOLhyphen"/>raign or domeſtick enemy, As for theſe Navies a<g ref="char:EOLhyphen"/>forementioned, they may perhaps caſt a repercuſſive fear and aſtoniſhment into the minds of ſome: but if we be really true, and conſtant in our minds, we need not fear them.</p>
+               <p>As for thoſe injuries, and abuſes done to His Ma<g ref="char:EOLhyphen"/>jeſty, which they intend, and are reſolved to vindi<g ref="char:EOLhyphen"/>cate, for my own part, I am ignorant of any; which if there were, I believe His Majeſty is more loving, and tender over his Subjects, then for ſome particu<g ref="char:EOLhyphen"/>lar abuſe to depopulate the whole Kingdome in re<g ref="char:EOLhyphen"/>venge
+<pb facs="tcp:112720:5"/>of the ſame. And the Parliament are ſo judi<g ref="char:EOLhyphen"/>cious in their pious way, and in all their mature Counſels, that if any known, and unjuſt injury ſholy be offered unto his Majeſty, they would (I am con<g ref="char:EOLhyphen"/>fident) according to Equity and Iuſtice correct the ſame. And they are ſo vigilant, and carefull for the ſafety, and ſecurity of the Kingdome, that if any e<g ref="char:EOLhyphen"/>nemy ſhould violently oppoſe us, they would bee ſpeedily provided for them in defedce of the Realm. God grant that the King and Parliament may ſo u<g ref="char:EOLhyphen"/>nitely accord, and correſpond together, that no cauſe of Fears, and Iealouſies, that no ſuſpition of injuries, may be reflected on either.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
